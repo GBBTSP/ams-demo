@@ -91,6 +91,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AzureConSample.html" />
+    <Content Include="HyperlapseSample.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config" />
     <Content Include="Service References\Application Insights\ConnectedService.json" />
